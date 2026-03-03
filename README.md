@@ -12,25 +12,37 @@
 - 🌐 Web development enthusiast with a focus on **Backend**
 - 🛠️ Working daily with: **Node.js**, **MongoDB**, and basics of **HTML/CSS/JS**
 - 🚀 Passionate about building practical projects and learning new technologies
+- ⚡ Fun fact: I code mostly at **night** 🦉
 
 <p align="center">
-      <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=nodejs,mongodb,js,html,css,git" height="30" />
-      </a>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,js,html,css,git" height="40" />  
 </p>
 
 ---
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='25' /> My Github Stats:
-![Your github streak](https://streak-stats.demolab.com?user=yourgithubusername&theme=dark&mode=weekly)
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='25' /> My Skills Progress:
+<p align="left">
+  <b>Node.js</b> <br>
+  <img src="https://progress-bar.dev/80/?title=Node.js&width=300&color=green" /><br>
+  <b>MongoDB</b> <br>
+  <img src="https://progress-bar.dev/75/?title=MongoDB&width=300&color=teal" /><br>
+  <b>JavaScript</b> <br>
+  <img src="https://progress-bar.dev/60/?title=JS&width=300&color=yellow" /><br>
+  <b>HTML/CSS</b> <br>
+  <img src="https://progress-bar.dev/85/?title=HTML/CSS&width=300&color=blue" /><br>
+  <b>Git</b> <br>
+  <img src="https://progress-bar.dev/70/?title=Git&width=300&color=orange" />
+</p>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20hrs%200%20mins-blue?style=flat)
+---
 
-**I'm a Night 🦉** 
+### <img src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif' width='25' /> GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=dark&count_private=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=dark" width="45%" />
+</p>
 
-```text
-🌞 Morning      0 commits          
-🌆 Daytime      0 commits         
-🌃 Evening      0 commits         
-🌙 Night        0 commits         
+---
+
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> Quote of the Day:
+> "Keep learning, keep building, and never stop experimenting."  
