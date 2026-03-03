@@ -1,5 +1,4 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-
 <p align="center">
 <a href="https://x.com/abodi_hb30314" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="30" /></a>&nbsp;
 <a href="https://discord.com/users/AbodiHB#6688" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord" height="30" width="30" /></a>
@@ -22,15 +21,8 @@
 ---
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='25' /> My Github Stats:
-![Your github streak](https://streak-stats.demolab.com?user=yourgithubusername&theme=dark&mode=weekly)
+
+![Your github streak](https://streak-stats.demolab.com?user=AbodiHB&theme=dark&mode=weekly)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20hrs%200%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning      0 commits          
-🌆 Daytime      0 commits         
-🌃 Evening      0 commits         
-🌙 Night        0 commits         
+<!--END_SECTION:waka-->
