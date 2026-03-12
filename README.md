@@ -10,31 +10,36 @@
 </a>
 </p>
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+<p align="center">
+  <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="600" />
+</p>
+
+---
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🎓 Computer Science student at **Jazan University**
-- 🌐 Web development enthusiast with a focus on **Backend**
-- 🛠️ Working daily with: **Node.js**, **MongoDB**, and basics of **HTML/CSS/JS**
+- 🌐 Web development enthusiast with a focus on **Backend Development**
+- 🛠️ Working daily with: **Node.js**, **MongoDB**, **Bootstrap 5**, and **Modern JavaScript**
 - 🚀 Passionate about building practical projects and learning new technologies
 
+### 🛠️ Tech Stack & Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,js,html,css,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,js,bootstrap,html,css,git,vscode,postman" />
   </a>
 </p>
 
 ---
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='25' /> My Github Stats:
-![Your github streak](https://streak-stats.demolab.com?user=YourGitHubUsername&theme=dark&mode=weekly)
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='25' /> My GitHub Stats:
 
-<!--START_SECTION:waka-->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abdulrahman2127&theme=dark&mode=weekly" alt="GitHub Streak" />
+</p>
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20hrs%200%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
+**I'm a Night 🦉** ```text
 🌞 Morning                0 commits          
 🌆 Daytime                0 commits         
 🌃 Evening                0 commits         
