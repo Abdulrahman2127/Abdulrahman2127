@@ -1,11 +1,10 @@
 <div align="center">
 
 # Hi, I'm Abdulrahman 👋
-### Backend Developer · CS Student @ Jazan University
+### Backend Developer · CS Student
 
 <br/>
 
-![](https://img.shields.io/badge/🎓-Jazan_University-58a6ff?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/⚙️-Backend_Development-a371f7?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/🌙-Night_Owl-79c0ff?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/●_Open_to_Work-3fb950?style=flat-square&labelColor=0d1117)
@@ -24,7 +23,7 @@
 
 | | |
 |:---|:---|
-| 🎓 **University** | Jazan University — Computer Science |
+| 🎓 **Degree** | Computer Science |
 | 🌐 **Focus** | Backend Development |
 | 🛠️ **Daily Stack** | Node.js · MongoDB · JavaScript |
 | 🚀 **Goal** | Building practical, real-world projects |
@@ -81,5 +80,5 @@
 ---
 
 <div align="center">
-  <sub>Made with ❤️ · Jazan University · keep building.</sub>
+  <sub>Made with ❤️ · keep building.</sub>
 </div>
