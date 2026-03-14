@@ -1,100 +1,65 @@
-<!--
-  ╔══════════════════════════════════╗
-  ║   Abdulrahman · GitHub Profile   ║
-  ╚══════════════════════════════════╝
--->
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Abdulrahman%20&fontSize=80&animation=fadeIn&fontAlignY=40&fontColor=C9A96E&desc=Backend%20Engineer%20in%20the%20making&descSize=25&descAlignY=65" width="100%" />
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=42&pause=1000&color=C9A96E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Abdulrahman." alt="Typing SVG" />
-</h1>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Jazan_University-Computer_Science-C9A96E?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=101010" />
+    <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20MongoDB-3fb950?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010" />
+  </p>
 
-<p>
-  <img src="https://img.shields.io/badge/CS_Student-Jazan_University-c9a96e?style=flat-square&labelColor=0a0a0f" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Backend_Development-c9a96e?style=flat-square&labelColor=0a0a0f" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open_to_Work-3fb950?style=flat-square&labelColor=0a0a0f" />
-</p>
-
-<p>
-  <a href="https://x.com/abodi_hb30314">
-    <img src="https://img.shields.io/badge/Twitter-%40abodi__hb30314-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0a0a0f" />
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/YourDiscordID">
-    <img src="https://img.shields.io/badge/Discord-Connect-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0f" />
-  </a>
-</p>
-
+  ### ⚡ Quick Connect
+  <a href="https://x.com/abodi_hb30314"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/YourDiscordID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🌌 The Midnight Architect
+> "Building robust backends while the world sleeps."
 
-## `01` · About Me
-
-> *"The best code is written after midnight."*
-
-| | |
-|---|---|
-| 🎓 **Education** | Computer Science @ **Jazan University** |
-| 🌐 **Focus** | Backend Development |
-| 🛠️ **Daily Stack** | Node.js · MongoDB · JavaScript |
-| 🚀 **Passion** | Building practical, real-world projects |
-| 🌙 **Rhythm** | Night Owl — peak performance after midnight |
+### 🛠️ Core Competencies
+| Feature | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `JavaScript (ES6+)`, `TypeScript`, `HTML5`, `CSS3` |
+| **Backend** | `Node.js`, `Express.js`, `REST APIs` |
+| **Database** | `MongoDB (Mongoose)`, `PostgreSQL` |
+| **DevOps/Tools** | `Git/GitHub`, `Postman`, `Docker`, `VS Code` |
 
 ---
 
-## `02` · Tech Stack
+## 📊 My Digital Footprint
 
 <div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Abdulrahman2127&show_icons=true&theme=tokyonight&title_color=C9A96E&icon_color=C9A96E&text_color=bfdbfe&bg_color=0d1117&hide_border=true&count_private=true" height="180px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman2127&layout=compact&theme=tokyonight&title_color=C9A96E&text_color=bfdbfe&bg_color=0d1117&hide_border=true" height="180px" />
+      </td>
+    </tr>
+  </table>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrahman2127&theme=tokyonight&fire=C9A96E&ring=C9A96E&currStreakLabel=C9A96E&background=0d1117&hide_border=true" width="100%" />
 </div>
 
 ---
 
-## `03` · GitHub Stats
+## 🕰️ Coding Workflow
+```javascript
+const abdulrahman = {
+  currentFocus: ["Scalable Architecture", "API Security"],
+  operatingSystem: "Linux/Windows (WSL2)",
+  lifestyle: "Night Owl 🦉",
+  motto: "Clean code over fast code."
+};
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abdulrahman2127&show_icons=true&theme=github_dark&hide_border=true&title_color=c9a96e&icon_color=c9a96e&text_color=e8e0d5&bg_color=0a0a0f" height="165" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman2127&layout=compact&theme=github_dark&hide_border=true&title_color=c9a96e&text_color=e8e0d5&bg_color=0a0a0f" height="165" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Abdulrahman2127&theme=dark&hide_border=true&background=0a0a0f&ring=c9a96e&fire=c9a96e&currStreakLabel=c9a96e" />
-
+<img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/productive-time%3Fusername%3DAbdulrahman2127%26theme%3Dtokyonight%26utcOffset%3D3" width="100%" />
 </div>
-
----
-
-## `04` · Coding Hours
-
-```text
-🌞 Morning    ░░░░░░░░░░░░░░░░░░░░   5%
-🌆 Daytime    ███░░░░░░░░░░░░░░░░░  15%
-🌃 Evening    ██████░░░░░░░░░░░░░░  30%
-🌙 Night      ██████████░░░░░░░░░░  50%
-```
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="center">
-  <sub>crafted with intention · keep building.</sub>
+<img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26theme%3Dtokyonight" />
+<br />
+<sub>Designed with ✨ by Abdulrahman</sub>
 </div>
