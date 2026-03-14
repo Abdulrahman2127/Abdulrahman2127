@@ -12,8 +12,8 @@
 
 <br/>
 
-[![Twitter](https://img.shields.io/badge/Twitter-%40abodi__hb30314-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117)](https://x.com/abodi_hb30314)
-[![Discord](https://img.shields.io/badge/Discord-Connect-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/users/YourDiscordID)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/abodi_hb30314)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/users/YourDiscordID)
 [![Profile Views](https://komarev.com/ghpvc/?username=Abdulrahman2127&color=58a6ff&style=for-the-badge&label=VISITORS&labelColor=0d1117)](https://github.com/Abdulrahman2127)
 
 </div>
@@ -37,6 +37,17 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=nodejs,mongodb,js,bootstrap,html,css,git,vscode,postman&perrow=9" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![AMSPro](https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman2127&repo=AMSPro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=e6edf3&border_radius=10)](https://github.com/Abdulrahman2127/AMSPro)
+[![PolexStore](https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman2127&repo=PolexStore&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=e6edf3&border_radius=10)](https://github.com/Abdulrahman2127/PolexStore)
 
 </div>
 
