@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20I'm%20Abdulrahman%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20CS%20Student%20%40%20Jazan%20University&descAlignY=55&descSize=16"/>
+# Hi, I'm Abdulrahman 👋
+### Backend Developer · CS Student @ Jazan University
 
 <br/>
 
@@ -9,7 +10,7 @@
 ![](https://img.shields.io/badge/🌙-Night_Owl-79c0ff?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/●_Open_to_Work-3fb950?style=flat-square&labelColor=0d1117)
 
-<br/><br/>
+<br/>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40abodi__hb30314-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117)](https://x.com/abodi_hb30314)
 [![Discord](https://img.shields.io/badge/Discord-Connect-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/users/YourDiscordID)
@@ -77,5 +78,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=keep%20building.&fontSize=16&fontColor=8b949e&fontAlignY=65"/>
+  <sub>Made with ❤️ · Jazan University · keep building.</sub>
 </div>
