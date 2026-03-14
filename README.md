@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180§ion=header&text=Hi%20I'm%20Abdulrahman%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20CS%20Student%20%40%20Jazan%20University&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20I'm%20Abdulrahman%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20CS%20Student%20%40%20Jazan%20University&descAlignY=55&descSize=16"/>
 
 <br/>
 
@@ -77,5 +77,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100§ion=footer&text=keep%20building.&fontSize=16&fontColor=8b949e&fontAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=keep%20building.&fontSize=16&fontColor=8b949e&fontAlignY=65"/>
 </div>
