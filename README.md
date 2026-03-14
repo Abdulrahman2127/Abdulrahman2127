@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=▶+whoami;Abdulrahman+—+Backend+Developer;CS+Student+%40+Jazan+University;Night+Owl+%F0%9F%8C%99+%7C+Node.js+%26+MongoDB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=28&pause=1000&color=00FF41¢er=true&vCenter=true&width=600&lines=%E2%96%B6+whoami;Abdulrahman+%E2%80%94+Backend+Developer;CS+Student+%40+Jazan+University;Night+Owl+%F0%9F%8C%99+%7C+Node.js+%26+MongoDB" alt="Typing SVG" />
 
 <br/>
 
@@ -59,12 +59,12 @@
 ▶ ./activity --graph
 ```
 
-```text
-Morning  [░░░░░░░░░░░░░░░░░░░]  5%
-Daytime  [███░░░░░░░░░░░░░░░░] 15%
-Evening  [██████░░░░░░░░░░░░░] 30%
-Night    [██████████░░░░░░░░░] 50%  ← peak hours
-```
+| Time | Progress | % |
+|------|----------|---|
+| 🌞 Morning | ![5%](https://progress-bar.xyz/5/?scale=100&title=&width=200&color=00ff41&suffix=) | 5% |
+| 🌆 Daytime | ![15%](https://progress-bar.xyz/15/?scale=100&title=&width=200&color=00ff41&suffix=) | 15% |
+| 🌃 Evening | ![30%](https://progress-bar.xyz/30/?scale=100&title=&width=200&color=00ff41&suffix=) | 30% |
+| 🌙 Night | ![50%](https://progress-bar.xyz/50/?scale=100&title=&width=200&color=00ff41&suffix=) | 50% ← peak |
 
 ---
 
@@ -74,7 +74,7 @@ Night    [██████████░░░░░░░░░] 50%  ← pe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdulrahman2127&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00ff41&ring_color=00ff41" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abdulrahman2127&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00ff41" height="160"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman2127&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41" height="160"/>
 
@@ -87,12 +87,5 @@ Night    [██████████░░░░░░░░░] 50%  ← pe
 ---
 
 <div align="center">
-
-```
-█▀▀ █▀█ █▀▄ █▀▀   █▄▀ █▀▀ █▀▀ █▀█   █▄▄ █ █ █ █   █▀▄ █ █▄ █ █▀▀
-█▄▄ █▄█ █▄▀ ██▄   █ █ ██▄ ██▄ █▀▀   █▄█ █▄█ █ █▄▄ █▄▀ █ █ ▀█ █▄█
-```
-
 <sub><code>session: github-profile | @Abdulrahman2127 | keep building.</code></sub>
-
 </div>
