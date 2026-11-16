@@ -96,14 +96,3 @@ Building modern web applications, scalable backends, and practical software solu
 
 Build reliable and useful software, deepen my expertise in full-stack engineering, and develop intelligent applications that combine modern web technologies with AI.
 
----
-
-<div align="center">
-
-### 💬 Let's Connect
-
-Always interested in discussing software development, new technologies, and interesting projects.
-
-**Keep Learning. Keep Building. 🚀**
-
-</div>
