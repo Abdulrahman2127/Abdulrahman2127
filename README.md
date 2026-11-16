@@ -1,19 +1,22 @@
+ 
 <div align="center">
 
 # Hi, I'm Abdulrahman 👋
-### Backend Developer · CS Student
+### Full-Stack Developer | Computer Science Student
+
+Building modern web applications, scalable backends, and practical software solutions.
 
 <br/>
 
-![](https://img.shields.io/badge/⚙️-Backend_Development-a371f7?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/🌙-Night_Owl-79c0ff?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/●_Open_to_Work-3fb950?style=flat-square&labelColor=0d1117)
+![Full Stack](https://img.shields.io/badge/Full--Stack_Development-58a6ff?style=flat-square&labelColor=0d1117)
+![Backend](https://img.shields.io/badge/Backend_Development-a371f7?style=flat-square&labelColor=0d1117)
+![AI](https://img.shields.io/badge/Exploring_AI-3fb950?style=flat-square&labelColor=0d1117)
 
 <br/>
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/abodi_hb30314)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/users/YourDiscordID)
-[![Profile Views](https://komarev.com/ghpvc/?username=Abdulrahman2127&color=58a6ff&style=for-the-badge&label=VISITORS&labelColor=0d1117)](https://github.com/Abdulrahman2127)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdulrahman2127)
+[![Profile Views](https://komarev.com/ghpvc/?username=Abdulrahman2127&color=58a6ff&style=for-the-badge&label=VISITORS)](https://github.com/Abdulrahman2127)
 
 </div>
 
@@ -21,23 +24,60 @@
 
 ## 👨‍💻 About Me
 
-| | |
-|:---|:---|
-| 🎓 **Degree** | Computer Science |
-| 🌐 **Focus** | Backend Development |
-| 🛠️ **Daily Stack** | Node.js · MongoDB · JavaScript |
-| 🚀 **Goal** | Building practical, real-world projects |
-| 🌙 **Schedule** | Night Owl — best code after midnight |
+- 🎓 Computer Science Student
+- 💻 Full-Stack Developer specializing in **React, Node.js, Express.js, and MongoDB**
+- ⚙️ Experienced in developing REST APIs, authentication systems, and database-driven applications
+- 🔐 Interested in backend architecture, API security, and scalable systems
+- 🤖 Exploring AI integration and AI-powered applications
+- 🐍 Learning and building projects with Python
+- 📚 Expanding my skills in TypeScript, cloud technologies, and DevOps
+- 🚀 Passionate about turning ideas into real-world software
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 💻 Programming Languages
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,js,bootstrap,html,css,git,vscode,postman&perrow=9" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,java,html,css&perrow=7" />
 
 </div>
+
+### 🎨 Frontend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vite,materialui,bootstrap,html,css&perrow=6" />
+
+</div>
+
+### ⚙️ Backend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php&perrow=4" />
+
+</div>
+
+### 🗄️ Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&perrow=2" />
+
+</div>
+
+### 🔧 Tools & Deployment
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,netlify&perrow=7" />
+
+</div>
+
+**Additional Experience:** REST APIs · JWT Authentication · HTTP-Only Cookies · bcrypt · CORS · Rate Limiting · CRUD Operations · Axios · React Router · Context API · EJS · Mongoose · GitHub Releases · Render · XAMPP
 
 ---
 
@@ -45,40 +85,95 @@
 
 <div align="center">
 
-[![AMSPro](https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman2127&repo=AMSPro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=e6edf3&border_radius=10)](https://github.com/Abdulrahman2127/AMSPro)
-[![PolexStore](https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman2127&repo=PolexStore&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=e6edf3&border_radius=10)](https://github.com/Abdulrahman2127/PolexStore)
+[![AMSPro](https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman2127&repo=AMSPro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7)](https://github.com/Abdulrahman2127/AMSPro)
+[![PolexStore](https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman2127&repo=PolexStore&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7)](https://github.com/Abdulrahman2127/PolexStore)
+
+</div>
+
+### 🎫 TicketFlow — IT Ticket Management System
+
+A full-stack application for managing IT support tickets, employee accounts, and administrative workflows.
+
+**Tech:** React · Node.js · Express.js · MongoDB · JWT · Material UI
+
+- Role-based authentication for administrators and employees
+- Workspace management and employee join requests
+- Ticket management and protected API endpoints
+- Secure authentication and login rate limiting
+
+[Live Demo](https://ticketflow-frontend-8cy3.onrender.com)
+
+### 👥 EmpTrack — Employee Management
+
+A full-stack employee management application with authentication and protected routes.
+
+**Tech:** React · Node.js · Express.js · MongoDB
+
+[Live Demo](https://emptrack-1.onrender.com)
+
+### 🌱 apiFarm — AI-Powered Agriculture
+
+An agriculture-focused project exploring AI-powered recommendations based on environmental and farming information.
+
+**Focus:** AI Integration · Web Development · Agriculture Technology
+
+[Live Demo](https://apifarm-frontend.onrender.com)
+
+### ✨ AI Text Improver
+
+A web application designed to improve and refine text using AI capabilities.
+
+**Focus:** AI API Integration · Full-Stack Development
+
+[Live Demo](https://ai-text-improver-9vh8.onrender.com)
+
+### 🛒 E-Commerce Development
+
+Experience building e-commerce functionality, including product management, user authentication, shopping carts, and administrative workflows.
+
+**Tech:** React · Express.js · MongoDB · REST APIs
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abdulrahman2127&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=e6edf3" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman2127&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Abdulrahman2127&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=a371f7&currStreakLabel=58a6ff"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Currently Learning
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abdulrahman2127&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=e6edf3&border_radius=10" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman2127&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&border_radius=10" height="165"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Abdulrahman2127&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=a371f7&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=e6edf3&border_radius=10"/>
-
-</div>
+- 🐍 Python and practical software development
+- 🔷 TypeScript for more maintainable applications
+- ⚡ Next.js and modern React development
+- 🐳 Docker, Cloud Computing, and DevOps fundamentals
+- 🤖 Integrating AI into full-stack applications
+- 🔐 Backend security and system architecture
 
 ---
 
-## ⏰ Coding Activity
+## 🎯 My Goals
 
-| Time | Progress | % |
-|:-----|:---------|--:|
-| 🌞 Morning | ![5%](https://geps.dev/progress/5?dangerColor=58a6ff&warningColor=58a6ff&successColor=58a6ff) | 5% |
-| 🌆 Daytime | ![15%](https://geps.dev/progress/15?dangerColor=a371f7&warningColor=a371f7&successColor=a371f7) | 15% |
-| 🌃 Evening | ![30%](https://geps.dev/progress/30?dangerColor=79c0ff&warningColor=79c0ff&successColor=79c0ff) | 30% |
-| 🌙 Night   | ![50%](https://geps.dev/progress/50?dangerColor=58a6ff&warningColor=58a6ff&successColor=58a6ff) | **50% 🔥** |
+Build reliable and useful software, deepen my expertise in full-stack engineering, and develop the skills needed to create intelligent applications that combine modern web technologies with AI.
 
 ---
 
 <div align="center">
-  <sub>Made with ❤️ · keep building.</sub>
+
+### 💬 Let's Connect
+
+Always interested in discussing software development, new technologies, and interesting projects.
+
+**Keep Learning. Keep Building. 🚀**
+
 </div>
