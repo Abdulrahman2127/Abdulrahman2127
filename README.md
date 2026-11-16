@@ -82,24 +82,13 @@ Building modern web applications, scalable backends, and practical software solu
 
 <img src="https://github-readme-stats.vercel.app/api?username=Abdulrahman2127&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=e6edf3" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman2127&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman2127&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=e6edf3" height="165"/>
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=Abdulrahman2127&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=a371f7&currStreakLabel=58a6ff"/>
 
 </div>
-
----
-
-## 📚 Currently Learning
-
-- 🐍 Python and practical software development
-- 🔷 TypeScript for maintainable applications
-- ⚡ Next.js and modern React development
-- 🐳 Docker, Cloud Computing, and DevOps fundamentals
-- 🤖 AI integration into full-stack applications
-- 🔐 Backend security and system architecture
 
 ---
 
